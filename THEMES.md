@@ -318,9 +318,10 @@ pywal is another special theme. It will load the colors from your current [pywal
 ### rosepine_moon
 <p>
 <img width='700' src='https://user-images.githubusercontent.com/13344107/224513257-a801dc1b-54ad-4cbb-b32b-d17662ef8631.jpg'/>
-<img width='700' src='https://user-images.githubusercontent.com/13344107/224513236-d05eb112-3aeb-4856-9d41-fe3855948d31.jpg'/>
-<img width='700' src='https://user-images.githubusercontent.com/13344107/224513268-99fd5a45-ba3b-4512-bc00-917d35566310.jpg'/>
-<img width='700' src='https://user-images.githubusercontent.com/13344107/224513263-30006971-0ec3-473a-9a13-74bcc80243e4.jpg'/>
+<img width='700' src='https://user-images.githubusercontent.com/13344107/224517759-301e7d2e-3a33-4ab7-9324-1001e1a1334e.jpg'/>
+<img width='700' src='https://user-images.githubusercontent.com/13344107/224517761-dd91022d-80a2-4bc6-95c0-be7eb894d598.jpg'/>
+<img width='700' src='https://user-images.githubusercontent.com/13344107/224517772-7577fb8d-d451-44ac-bd9f-64410bbc9e1a.jpg'/>
+<img width='700' src='https://user-images.githubusercontent.com/13344107/224517756-9d2ed3f7-254e-4022-a061-92db9cbf304f.jpg'/>
 </p>
 
 ### seoul256
