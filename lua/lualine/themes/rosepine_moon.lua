@@ -23,7 +23,7 @@ return {
         b = { bg = colors.subtle, fg = colors.white },
         c = { bg = colors.surface, fg = colors.white },
         x = { bg = colors.surface, fg = colors.white },
-        y = { bg = colors.subtle, fg = colors.black },
+        y = { bg = colors.subtle, fg = colors.gold },
         z = { bg = colors.gold, fg = colors.black, gui = 'bold' },
     },
     insert = {
@@ -31,7 +31,7 @@ return {
         b = { bg = colors.subtle, fg = colors.white },
         c = { bg = colors.surface, fg = colors.white },
         x = { bg = colors.surface, fg = colors.white },
-        y = { bg = colors.subtle, fg = colors.black },
+        y = { bg = colors.subtle, fg = colors.foam },
         z = { bg = colors.foam, fg = colors.black, gui = 'bold' },
     },
     visual = {
@@ -39,7 +39,7 @@ return {
         b = { bg = colors.subtle, fg = colors.white },
         c = { bg = colors.surface, fg = colors.white },
         x = { bg = colors.surface, fg = colors.white },
-        y = { bg = colors.subtle, fg = colors.black },
+        y = { bg = colors.subtle, fg = colors.iris },
         z = { bg = colors.iris, fg = colors.black, gui = 'bold' },
     },
     replace = {
@@ -47,7 +47,7 @@ return {
         b = { bg = colors.subtle, fg = colors.white },
         c = { bg = colors.surface, fg = colors.white },
         x = { bg = colors.surface, fg = colors.white },
-        y = { bg = colors.subtle, fg = colors.black },
+        y = { bg = colors.subtle, fg = colors.rose },
         z = { bg = colors.rose, fg = colors.black, gui = 'bold' },
     },
     command = {
@@ -55,7 +55,7 @@ return {
         b = { bg = colors.subtle, fg = colors.white },
         c = { bg = colors.surface, fg = colors.white },
         x = { bg = colors.surface, fg = colors.white },
-        y = { bg = colors.subtle, fg = colors.black },
+        y = { bg = colors.subtle, fg = colors.pine },
         z = { bg = colors.pine, fg = colors.black, gui = 'bold' },
     },
     inactive = {
